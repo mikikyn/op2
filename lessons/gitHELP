@@ -11,4 +11,4 @@ git commit -m 'название'
 git push origin
 
 
-git rm --cached namefile : стирает файл
+git rm --cached -r namefile : стирает файл
