@@ -1,0 +1,10 @@
+git config --global user.name "FIRST_NAME LAST_NAME"
+git config --global user.email "MY_NAME@example.com"
+
+пишется 1 раз:
+git init: связывает гит с вашим проектом
+git remote add origin ссылка на ваш репозиторий: связывает ваш проект к репозиторию
+
+всегда:
+git add. : добавляет файлы
+git commit -m 'название'
