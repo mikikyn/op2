@@ -12,3 +12,7 @@ git push origin
 
 
 git rm --cached -r namefile : стирает файл
+
+
+
+git clone url репозитория: скачать чей-то репозиторий
