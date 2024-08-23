@@ -28,6 +28,7 @@ beka=Book('ЭТОМИР', 'beka', 'black')
 print(len(beka))
 
 ls=[1,1,1,1,1]
+print(ls)
 
 
 
