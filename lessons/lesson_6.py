@@ -6,3 +6,4 @@ from lesson_2 import Book
 
 c=Book('1', '1', 'red')
 c.info()
+
